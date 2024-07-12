@@ -710,8 +710,8 @@ body {
 /* Default styles for larger screens */
 .appointment-button {
   position: fixed;
-  bottom: 40px;
-  right: 40px;
+  bottom: 20px;
+  right: 20px;
   background: linear-gradient(135deg, #2E3192, #0071BC);
   color: #fff;
   padding: 10px 40px;
